@@ -8,13 +8,13 @@
   },
   "repository": "https://github.com/mohammedzihan/liveliness-detector.git",
   "files": [
-    "index.js"
+    "index.js",
     "CustomModule.js",
     "android/src/main/AndroidManifest.xml",
     "android/src/main/java/",
     "android/build.gradle",
     "ios/",
-    "README.md",
+    "README.md"
   ],
   "dependencies": {},
   "devDependencies": {
