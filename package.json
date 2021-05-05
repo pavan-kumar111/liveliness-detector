@@ -1,20 +1,16 @@
 {
   "name": "liveness",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "main": "index.js",
   "scripts": {
-    "android": "react-native run-android",
-    "ios": "react-native run-ios",
-    "start": "react-native start",
-    "test": "jest",
-    "lint": "eslint ."
+    "test": "echo \"Error: no test specified\" && exit 1",
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mohammedzihan/liveliness-detector.git"
   },
-  "dependencies": {
+  "peerDependencies": {
     "react": "17.0.1",
     "react-native": "0.64.0"
   },
@@ -28,6 +24,17 @@
     "metro-react-native-babel-preset": "0.64.0",
     "react-test-renderer": "17.0.1"
   },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "fs",
+    "filesystem",
+    "download",
+    "upload",
+    "file-transfer"
+  ],
   "author": "Zihan",
   "license": "MIT",
   "jest": {
