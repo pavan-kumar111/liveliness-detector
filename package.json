@@ -2,6 +2,7 @@
   "name": "liveness",
   "version": "0.0.1",
   "private": false,
+  "main": "index.js",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
