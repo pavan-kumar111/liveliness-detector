@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mohammedzihan/liveliness-detector.git"
-  },
+  "repository": "https://github.com/mohammedzihan/liveliness-detector.git",
   "peerDependencies": {
     "react": "17.0.1",
     "react-native": "0.64.0"
