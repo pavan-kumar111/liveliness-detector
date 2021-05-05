@@ -1,6 +1,6 @@
 {
   "name": "liveness-img-detector",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "private": false,
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
     "android/src/main/AndroidManifest.xml",
     "android/src/main/java/",
     "android/build.gradle",
+    "android/",
     "ios/",
     "README.md"
   ],
