@@ -1,6 +1,6 @@
 {
-  "name": "@pavan.kumar123/liveness-sdk",
-  "version": "1.0.2",
+  "name": "liveness-img-detector",
+  "version": "1.0.3",
   "private": false,
   "main": "index.js",
   "scripts": {
