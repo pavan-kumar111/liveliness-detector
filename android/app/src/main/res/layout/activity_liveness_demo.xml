@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LivenessDemoActivity">
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <com.liveness.klivenesslibrary.view.KLivenessView
+            android:id="@+id/kLiveView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            app:klive_time_out_second="30"
+            app:klive_color_has_face="#00BC39"
+            app:klive_color_invalid_face="#FF0000"
+            app:klive_color_no_face="#FF0000"
+            />
+    </FrameLayout>
+
+</layout>
