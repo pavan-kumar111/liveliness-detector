@@ -1,6 +1,6 @@
 {
-  "name": "@pavan.kumar123/liveness-detector",
-  "version": "1.0.1",
+  "name": "@pavan.kumar123/liveness-sdk",
+  "version": "1.0.2",
   "private": false,
   "main": "index.js",
   "scripts": {
