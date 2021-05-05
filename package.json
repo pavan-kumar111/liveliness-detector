@@ -10,10 +10,9 @@
   "files": [
     "index.js",
     "CustomModule.js",
-    "android/src/main/AndroidManifest.xml",
-    "android/src/main/java/",
+    "android/app/src/main/AndroidManifest.xml",
+    "android/app/src/main/java/",
     "android/build.gradle",
-    "android/",
     "README.md"
   ],
   "dependencies": {},
