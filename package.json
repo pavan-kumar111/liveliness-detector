@@ -1,5 +1,5 @@
 {
-  "name": "liveness-img-detector",
+  "name": "liveness-image-sdk",
   "version": "1.0.8",
   "private": false,
   "main": "index.js",
@@ -42,7 +42,7 @@
     "upload",
     "file-transfer"
   ],
-  "author": "Zihan",
+  "author": "Pavankumar",
   "license": "MIT",
   "jest": {
     "preset": "react-native"
