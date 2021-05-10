@@ -13,7 +13,6 @@
     "android/app/src/main/AndroidManifest.xml",
     "android/app/src/main/java/",
     "android/build.gradle",
-    "android/",
     "README.md"
   ],
   "dependencies": {},
